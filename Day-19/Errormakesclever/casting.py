@@ -1,0 +1,10 @@
+##a=int("30")
+#b=int("40")
+#print(a+b)
+
+name = input()
+age = input()
+address = input()
+print("My Name is",name)
+print("Age is", age)
+print("My address is", address)
